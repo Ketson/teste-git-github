@@ -3,7 +3,7 @@
 
 int main(){
 
-    char nome[30];
+    char nome[40];
     int idade;
     float altura;
 
