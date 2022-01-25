@@ -12,6 +12,8 @@ int main(){
     printf("Qual a sua idade? \n");
     scanf("%d",&idade);
 
+    //essa linha foi modificada no ramo master
+
     return 0;
 
 }
